@@ -1,4 +1,4 @@
-# Tony's Programming Portfolio
+# Anthony's Programming Portfolio
 
 This is my AP Computer Science Final Portfolio Project. It showcases my programming projects, technical skills, and learning journey through the course.
 
